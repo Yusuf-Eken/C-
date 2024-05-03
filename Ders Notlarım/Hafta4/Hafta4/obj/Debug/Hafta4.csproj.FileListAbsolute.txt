@@ -1,0 +1,7 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta4\Hafta4\bin\Debug\Hafta4.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta4\Hafta4\bin\Debug\Hafta4.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta4\Hafta4\bin\Debug\Hafta4.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta4\Hafta4\obj\Debug\Hafta4.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta4\Hafta4\obj\Debug\Hafta4.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta4\Hafta4\obj\Debug\Hafta4.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta4\Hafta4\obj\Debug\Hafta4.pdb
