@@ -1,7 +1,0 @@
-C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta6\Hafta6\bin\Debug\Hafta6.exe.config
-C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta6\Hafta6\bin\Debug\Hafta6.exe
-C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta6\Hafta6\bin\Debug\Hafta6.pdb
-C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta6\Hafta6\obj\Debug\Hafta6.csproj.AssemblyReference.cache
-C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta6\Hafta6\obj\Debug\Hafta6.csproj.CoreCompileInputs.cache
-C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta6\Hafta6\obj\Debug\Hafta6.exe
-C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Hafta6\Hafta6\obj\Debug\Hafta6.pdb
