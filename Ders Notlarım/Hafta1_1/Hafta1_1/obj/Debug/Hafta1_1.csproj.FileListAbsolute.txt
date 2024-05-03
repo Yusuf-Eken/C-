@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Hafta1_1\Hafta1_1\bin\Debug\Hafta1_1.exe.config
+C:\Users\yusuf\source\repos\Hafta1_1\Hafta1_1\bin\Debug\Hafta1_1.exe
+C:\Users\yusuf\source\repos\Hafta1_1\Hafta1_1\bin\Debug\Hafta1_1.pdb
+C:\Users\yusuf\source\repos\Hafta1_1\Hafta1_1\obj\Debug\Hafta1_1.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Hafta1_1\Hafta1_1\obj\Debug\Hafta1_1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Hafta1_1\Hafta1_1\obj\Debug\Hafta1_1.exe
+C:\Users\yusuf\source\repos\Hafta1_1\Hafta1_1\obj\Debug\Hafta1_1.pdb

@@ -1,0 +1,7 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Gorsel1vize\Gorsel1vize\bin\Debug\Gorsel1vize.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Gorsel1vize\Gorsel1vize\bin\Debug\Gorsel1vize.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Gorsel1vize\Gorsel1vize\bin\Debug\Gorsel1vize.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Gorsel1vize\Gorsel1vize\obj\Debug\Gorsel1vize.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Gorsel1vize\Gorsel1vize\obj\Debug\Gorsel1vize.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Gorsel1vize\Gorsel1vize\obj\Debug\Gorsel1vize.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Görsel Programlama\Gorsel1vize\Gorsel1vize\obj\Debug\Gorsel1vize.pdb

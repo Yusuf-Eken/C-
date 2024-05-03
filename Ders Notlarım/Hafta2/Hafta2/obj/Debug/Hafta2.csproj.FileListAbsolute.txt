@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Hafta2\Hafta2\bin\Debug\Hafta2.exe.config
+C:\Users\yusuf\source\repos\Hafta2\Hafta2\bin\Debug\Hafta2.exe
+C:\Users\yusuf\source\repos\Hafta2\Hafta2\bin\Debug\Hafta2.pdb
+C:\Users\yusuf\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.exe
+C:\Users\yusuf\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.pdb
